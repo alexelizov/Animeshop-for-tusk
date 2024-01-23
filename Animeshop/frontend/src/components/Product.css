@@ -1,0 +1,33 @@
+.Product {
+    width: 300px;
+    height: 450px;
+    padding: 30px;
+    box-shadow: 0px 0px 5px 5px #740074;
+    margin: auto;
+    background-color: rgba(1, 65, 1, 0.582);
+}
+
+.Product img {
+    height: 250px;
+    width: auto;
+    margin-bottom: 10px;
+}
+
+.Product h1 {
+    font-size: 20pt;
+    margin-bottom: 10px;
+}
+
+.Product p {
+    font-size: 14pt;
+    margin-bottom: 10px;
+}
+
+.Product .buy {
+    height: 50px;
+    width: 200px;
+    border-style: none;
+    background-color: rgb(0, 128, 0);
+    border-radius: 10px;
+    font-size: 16pt;
+}

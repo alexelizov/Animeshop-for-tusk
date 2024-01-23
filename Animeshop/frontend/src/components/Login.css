@@ -1,0 +1,30 @@
+.Login {
+    display: flex;
+    flex-direction: column;
+    margin: 5% 15%;
+}
+
+.Login h1 {
+    margin-bottom: 20px;
+}
+
+.Login input {
+    height: 30px;
+    width: auto;
+    margin-bottom: 20px;
+    border-radius: 10px;
+}
+
+.Login button {
+    height: 30px;
+    width: auto;
+    border-radius: 10px;
+    font-size: 14pt;
+    background-color: rgb(0, 128, 0);
+    border-style: none;
+}
+
+.Login #loginError {
+    color: red;
+    margin-top: 10px;
+}
